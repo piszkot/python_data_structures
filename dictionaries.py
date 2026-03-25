@@ -99,11 +99,3 @@ print(my_dict)
 my_dict.clear()
 print(my_dict)
 print()
-
-# Common Python dictionary methods
-
-my_dict = {
-    "name": "Alice",
-    "age": 25,
-    "city": "New York"
-}
