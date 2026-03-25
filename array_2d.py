@@ -1,5 +1,5 @@
-# A 2D array is a collection of elements arranged in rows and columns,
-# forming a grid-like structure. It can be thought of as a list of lists (or in Python, a tuple of tuples),
+# A 2D array is a collection of elements arranged in rows and columns, forming a grid-like structure.
+# It can be thought of as a list of lists (or in Python, a tuple of tuples),
 # where each inner sequence represents a single row of data.
 
 num_pad = ((1, 2, 3),
